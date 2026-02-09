@@ -21,7 +21,6 @@ This project analyzes a **public Netflix Originals dataset** to understand conte
 ## Tools Used
 - Power BI  
 - Power Query  
-- Basic DAX Measures  
 - Data Analysis  
 - Data Visualization  
 - Dashboard Design  
